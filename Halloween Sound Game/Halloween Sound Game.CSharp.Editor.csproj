@@ -112,21 +112,6 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>Library\UnityAssemblies\SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="ProBuilderCore-Unity5">
-      <HintPath>Assets\ProCore\ProBuilder\Classes\ProBuilderCore-Unity5.dll</HintPath>
-    </Reference>
-    <Reference Include="ProBuilderMeshOps-Unity5">
-      <HintPath>Assets\ProCore\ProBuilder\Classes\ProBuilderMeshOps-Unity5.dll</HintPath>
-    </Reference>
-    <Reference Include="KDTree">
-      <HintPath>Assets\ProCore\ProBuilder\Classes\ClassesLib\KDTree.dll</HintPath>
-    </Reference>
-    <Reference Include="pb_Stl">
-      <HintPath>Assets\ProCore\ProBuilder\Classes\ClassesLib\pb_Stl.dll</HintPath>
-    </Reference>
-    <Reference Include="Triangle">
-      <HintPath>Assets\ProCore\ProBuilder\Classes\ClassesLib\Triangle.dll</HintPath>
-    </Reference>
     <Reference Include="ProBuilderEditor-Unity5">
       <HintPath>Assets\ProCore\ProBuilder\Editor\ProBuilderEditor-Unity5.dll</HintPath>
     </Reference>
@@ -173,6 +158,41 @@
     <Compile Include="Assets\ProCore\ProBuilder\Editor\pb_MissingScriptEditor.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\Editor\pb_Preferences.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\Editor\pb_ScenePostProcessor.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkAmbientInspector.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkBankInspector.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkBaseInspector.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkEnvironmentInspector.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkEnvironmentPortalInspector.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkEventInspector.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkGameObjectInspector.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkInitializerInspector.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkPortalManager.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkStateInspector.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkSwitchInspector.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkUnityEventHandlerInspector.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseComponents\AkWwiseXMLWatcher.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseMenu\Common\AkExampleAppBuilderBase.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseMenu\Common\AkUnityBuilderBase.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseMenu\Common\AkUnityPluginInstallerBase.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseMenu\Common\AkWwiseIdConverter.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseMenu\Mac\AkWwiseMenu_Mac.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseMenu\Windows\AkWwiseMenu_Windows.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseSetupWizard\AkPluginActivator.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseSetupWizard\AkSceneUtils.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseSetupWizard\AkUnitySettingsParser.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseSetupWizard\AkWwisePostImportCallbackSetup.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseSetupWizard\AkWwiseSettingsWindow.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseSetupWizard\AkWwiseSetupWizard.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseSetupWizard\AkXboxOneUtils.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseWindows\AkWwiseComponentPicker.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseWindows\AkWwisePicker.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseWindows\AkWwiseProjectData.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseWindows\AkWwiseProjectInfo.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseWindows\AkWwiseTreeView.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseWindows\AkWwiseWWUBuilder.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseWindows\AkWwiseXMLBuilder.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseWindows\TreeViewControl\TreeViewControl.cs" />
+    <Compile Include="Assets\Wwise\Editor\WwiseWindows\TreeViewControl\TreeViewItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\README.txt" />
@@ -195,6 +215,12 @@
     <None Include="Assets\ProCore\ProBuilder\Shader\pb_VertexPicker.shader" />
     <None Include="Assets\ProCore\ProBuilder\Shader\pb_VertexShader.shader" />
     <None Include="Assets\ProCore\ProBuilder\readme.txt" />
+    <None Include="Assets\StreamingAssets\desc.txt" />
+    <None Include="Assets\Wwise\Deployment\Plugins\Mac\Debug\AkSoundEngine.bundle\Contents\Resources\readme.txt" />
+    <None Include="Assets\Wwise\Deployment\Plugins\Mac\Profile\AkSoundEngine.bundle\Contents\Resources\readme.txt" />
+    <None Include="Assets\Wwise\Deployment\Plugins\Mac\Release\AkSoundEngine.bundle\Contents\Resources\readme.txt" />
+    <None Include="Assets\Wwise\Version.txt" />
+    <None Include="Assets\WwiseSettings.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
