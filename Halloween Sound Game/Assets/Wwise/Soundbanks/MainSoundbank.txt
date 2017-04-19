@@ -1,0 +1,119 @@
+Event	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Ambience	
+	1060479906	Antagonist_Voice			\Default Work Unit\Antagonist_Voice	
+	1290972847	Bookshelf_Drag			\Default Work Unit\Bookshelf_Drag	
+	2385628198	Footsteps			\Default Work Unit\Footsteps	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2385628198	Footsteps			\Default Work Unit\Footsteps	
+
+Switch	ID	Name	Switch Group			Notes
+	2412606308	Carpet	Footsteps			
+	4224789595	Stone_Floor	Footsteps			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1610274	Owl (2)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Owl (2)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Owl\Owl (2)		565980
+	20289273	Owl (6)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Owl (6)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Owl\Owl (6)		568052
+	35637065	Shelf_drag_02 (4)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_drag_02 (4)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Drag_02\Shelf_drag_02 (4)		60118
+	61810362	Shelf_Sounds (4)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (4)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (4)		37600
+	72862156	Shelf_Sounds (6)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (6)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (6)		20276
+	84827313	Rain_placeholder (9)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (9)_F71784B4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (9)		701728
+	92096379	Foot_Tile_HeelsRun04 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun04 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun04 render 001		27578
+	108145977	Rain_placeholder (3)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (3)_C3A67BB6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (3)		701728
+	117850520	Shelf_drag_02 (2)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_drag_02 (2)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Drag_02\Shelf_drag_02 (2)		54606
+	119175699	Shelf_drag_01 (3)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_drag_01 (3)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Drag_01\Shelf_drag_01 (3)		42392
+	137259297	Wind (3)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Wind (3)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain_on_Window\Wind (3)		1905600
+	141229648	Shelf_Sounds (12)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (12)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (12)		21544
+	141898955	Shelf_Sounds (8)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (8)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (8)		67280
+	155781672	Shelf_Sounds (11)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (11)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (11)		29168
+	165247904	Rain_placeholder (14)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (14)_839603E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (14)		876552
+	169228657	Rats (4)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rats (4)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Rats\Rats (4)		759340
+	184954405	Thunder_placeholder (2)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Thunder_placeholder (2)_D05F0506.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Thunder\Thunder_placeholder (2)		2646064
+	188069737	Baby_Wolf (1)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Baby_Wolf (1)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Baby_Wolfs\Baby_Wolf (1)		732696
+	189105331	Baby_Wolf (2)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Baby_Wolf (2)_02126019.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Baby_Wolfs\Baby_Wolf (2)		334228
+	189954070	Foot_Carpet_BareRun03 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun03 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun03 render 001		42562
+	199391408	Shelf_Sounds (5)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (5)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (5)		45104
+	215195535	Shelf_Sounds (14)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (14)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (14)		31248
+	231981524	Foot_Tile_HeelsRun11 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun11 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun11 render 001		21986
+	260416640	Foot_Carpet_BareRun12 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun12 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun12 render 001		38172
+	296254327	Bowed_Cymbal (3)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Bowed_Cymbal (3)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Bowed_Cymbal\Bowed_Cymbal (3)		1174728
+	328382180	Rain_placeholder (4)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (4)_2EA7FC85.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (4)		694640
+	335243777	Wind (6)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Wind (6)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain_on_Window\Wind (6)		1751864
+	336148076	Foot_Tile_HeelsRun02 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun02 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun02 render 001		18426
+	354275350	Thunder_placeholder (1)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Thunder_placeholder (1)_C807726C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Thunder\Thunder_placeholder (1)		2381464
+	357527320	Shelf_drag_01 (1)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_drag_01 (1)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Drag_01\Shelf_drag_01 (1)		42324
+	358162262	Shelf_Sounds (3)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (3)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (3)		75708
+	378351861	Shelf_Sounds (16)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (16)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (16)		55844
+	401344057	Rain_placeholder (10)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (10)_00363C22.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (10)		697000
+	436283827	Foot_Tile_HeelsRun03 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun03 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun03 render 001		35392
+	449280280	Foot_Carpet_BareRun08 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun08 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun08 render 001		42944
+	450598540	Foot_Carpet_BareRun07 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun07 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun07 render 001		43328
+	451603585	Rain_placeholder (8)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (8)_C3A67BB6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (8)		701728
+	452811304	Wind (2)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Wind (2)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain_on_Window\Wind (2)		1259908
+	457698258	Rain_placeholder (13)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (13)_839603E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (13)		876552
+	478268372	Bowed_Cymbal (1)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Bowed_Cymbal (1)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Bowed_Cymbal\Bowed_Cymbal (1)		1407856
+	479223275	Shelf_Sounds (1)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (1)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (1)		39472
+	479974289	Shelf_drag_02 (3)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_drag_02 (3)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Drag_02\Shelf_drag_02 (3)		57520
+	485211507	Bowed_Cymbal (2)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Bowed_Cymbal (2)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Bowed_Cymbal\Bowed_Cymbal (2)		1174728
+	498337412	Shelf_Sounds (9)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (9)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (9)		24180
+	499870486	Thunder_placeholder (4)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Thunder_placeholder (4)_944477FC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Thunder\Thunder_placeholder (4)		2646064
+	501253786	Wind (7)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Wind (7)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain_on_Window\Wind (7)		1444392
+	540303231	Rain_placeholder (7)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (7)_BBAF324A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (7)		699364
+	544159912	Foot_Tile_HeelsRun09 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun09 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun09 render 001		27038
+	562966634	Foot_Tile_HeelsRun08 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun08 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun08 render 001		21344
+	564548707	Foot_Carpet_BareRun10 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun10 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun10 render 001		43200
+	578859874	Shelf_Sounds (2)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (2)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (2)		67048
+	579726038	Foot_Carpet_BareRun06 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun06 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun06 render 001		42816
+	582103436	Rats (1)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rats (1)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Rats\Rats (1)		618040
+	592307810	Wind (5)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Wind (5)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain_on_Window\Wind (5)		1567380
+	607529805	Thunder_placeholder (3)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Thunder_placeholder (3)_3440EE80.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Thunder\Thunder_placeholder (3)		2603748
+	614568300	Foot_Tile_HeelsRun06 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun06 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun06 render 001		25848
+	622487574	Wind (10)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Wind (10)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain_on_Window\Wind (10)		1986128
+	631762608	Shelf_Sounds (13)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (13)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (13)		14616
+	633429750	Foot_Carpet_BareRun02 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun02 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun02 render 001		43934
+	643551932	Shelf_Sounds (17)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (17)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (17)		69080
+	655262000	Rats (5)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rats (5)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Rats\Rats (5)		702956
+	657724439	Bowed_Cymbal (6)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Bowed_Cymbal (6)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Bowed_Cymbal\Bowed_Cymbal (6)		1276264
+	668557373	Rain_placeholder (6)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (6)_F35A8989.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (6)		880684
+	669916944	Rats (8)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rats (8)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Rats\Rats (8)		707424
+	670580481	Shelf_Sounds (10)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (10)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (10)		26672
+	682976109	Shelf_drag_02 (1)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_drag_02 (1)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Drag_02\Shelf_drag_02 (1)		52524
+	696203642	Foot_Carpet_BareRun09 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun09 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun09 render 001		43328
+	698657232	Foot_Tile_HeelsRun12 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun12 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun12 render 001		26262
+	722806191	Owl (3)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Owl (3)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Owl\Owl (3)		565980
+	725393069	Rain_placeholder (11)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (11)_02F76921.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (11)		865528
+	734515945	Foot_Tile_HeelsRun07 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun07 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun07 render 001		24542
+	781141942	Rain_placeholder (5)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (5)_FE0B2306.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (5)		698184
+	802953525	Rain_placeholder (12)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (12)_C2098241.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (12)		848988
+	810359868	Foot_Carpet_BareRun04 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun04 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun04 render 001		43966
+	820163631	Rain_placeholder (15)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (15)_839603E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (15)		876552
+	824021562	Foot_Carpet_BareRun11 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun11 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun11 render 001		40130
+	826511013	Wind (9)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Wind (9)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain_on_Window\Wind (9)		1644248
+	830131642	Rats (6)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rats (6)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Rats\Rats (6)		784892
+	837344438	Rain_placeholder (1)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (1)_D47D9FA1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (1)		1037988
+	854425234	Wind (11)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Wind (11)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain_on_Window\Wind (11)		1699560
+	892718999	Foot_Carpet_BareRun05 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun05 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun05 render 001		42304
+	908169545	Bowed_Cymbal (4)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Bowed_Cymbal (4)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Bowed_Cymbal\Bowed_Cymbal (4)		1211648
+	922315978	Owl (4)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Owl (4)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Owl\Owl (4)		570120
+	922399261	Baby_Wolf (3)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Baby_Wolf (3)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Baby_Wolfs\Baby_Wolf (3)		878720
+	924954769	Wind (8)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Wind (8)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain_on_Window\Wind (8)		1797984
+	927355721	Wind (4)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Wind (4)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain_on_Window\Wind (4)		1721116
+	934939276	Shelf_drag_01 (4)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_drag_01 (4)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Drag_01\Shelf_drag_01 (4)		46152
+	947415460	Rats (7)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rats (7)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Rats\Rats (7)		820152
+	950368825	Bowed_Cymbal (7)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Bowed_Cymbal (7)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Bowed_Cymbal\Bowed_Cymbal (7)		1063012
+	951895766	Shelf_drag_01 (2)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_drag_01 (2)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Drag_01\Shelf_drag_01 (2)		39230
+	961432656	Foot_Tile_HeelsRun01 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun01 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun01 render 001		34450
+	973963374	Foot_Carpet_BareRun01 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Carpet_BareRun01 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Carpet\Foot_Carpet_BareRun01 render 001		46912
+	981057179	Bowed_Cymbal (5)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Bowed_Cymbal (5)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Bowed_Cymbal\Bowed_Cymbal (5)		1271264
+	987223205	Shelf_Sounds (15)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (15)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (15)		45796
+	1003171774	Wind (1)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Wind (1)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain_on_Window\Wind (1)		1444392
+	1012254218	Foot_Tile_HeelsRun05 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun05 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun05 render 001		20634
+	1014093514	Rain_placeholder (2)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rain_placeholder (2)_6F95E465.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Rain\Rain_placeholder (2)		702908
+	1023436637	Owl (1)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Owl (1)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Owl\Owl (1)		559776
+	1027467767	Rats (3)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rats (3)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Rats\Rats (3)		851932
+	1030701382	Owl (5)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Owl (5)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Outside\Owl\Owl (5)		555636
+	1031823595	Shelf_Sounds (7)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Shelf_Sounds (7)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bookshelf\Shelf_Sounds\Shelf_Sounds (7)		80328
+	1048979421	Foot_Tile_HeelsRun10 render 001	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Foot_Tile_HeelsRun10 render 001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Protagonist\Footsteps\Stone_floor\Foot_Tile_HeelsRun10 render 001		21374
+	1062393960	VO_Test	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\VO_Test_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Antagonist\VO_Test		882064
+	1065341438	Rats (2)	E:\Projekt\Wwise_Projects\Halloween_Escape\.cache\Windows\SFX\Rats (2)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Inside\Rats\Rats (2)		886692
+
