@@ -112,21 +112,6 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>Library\UnityAssemblies\SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="ProBuilderCore-Unity5">
-      <HintPath>Assets\ProCore\ProBuilder\Classes\ProBuilderCore-Unity5.dll</HintPath>
-    </Reference>
-    <Reference Include="ProBuilderMeshOps-Unity5">
-      <HintPath>Assets\ProCore\ProBuilder\Classes\ProBuilderMeshOps-Unity5.dll</HintPath>
-    </Reference>
-    <Reference Include="KDTree">
-      <HintPath>Assets\ProCore\ProBuilder\Classes\ClassesLib\KDTree.dll</HintPath>
-    </Reference>
-    <Reference Include="pb_Stl">
-      <HintPath>Assets\ProCore\ProBuilder\Classes\ClassesLib\pb_Stl.dll</HintPath>
-    </Reference>
-    <Reference Include="Triangle">
-      <HintPath>Assets\ProCore\ProBuilder\Classes\ClassesLib\Triangle.dll</HintPath>
-    </Reference>
     <Reference Include="ProBuilderEditor-Unity5">
       <HintPath>Assets\ProCore\ProBuilder\Editor\ProBuilderEditor-Unity5.dll</HintPath>
     </Reference>
@@ -234,10 +219,6 @@
     <None Include="Assets\Wwise\Deployment\Plugins\Mac\Debug\AkSoundEngine.bundle\Contents\Resources\readme.txt" />
     <None Include="Assets\Wwise\Deployment\Plugins\Mac\Profile\AkSoundEngine.bundle\Contents\Resources\readme.txt" />
     <None Include="Assets\Wwise\Deployment\Plugins\Mac\Release\AkSoundEngine.bundle\Contents\Resources\readme.txt" />
-    <None Include="Assets\Wwise\Soundbanks\Init.txt" />
-    <None Include="Assets\Wwise\Soundbanks\MainSoundbank.txt" />
-    <None Include="Assets\Wwise\Soundbanks\PluginInfo.xml" />
-    <None Include="Assets\Wwise\Soundbanks\SoundbanksInfo.xml" />
     <None Include="Assets\Wwise\Version.txt" />
     <None Include="Assets\WwiseSettings.xml" />
   </ItemGroup>
